@@ -20,7 +20,9 @@ public class Pratik_NotOrtalamasiHesaplayanProgram {
         double toplam = (mat+fizik+kimya+tarih+turkce+muzik)/6.0;
         System.out.println("Sonucunuz:");
         System.out.println(toplam);
-
+        //Ödev= 60'ı geçenler geçti, geçmeyenler kaldı
+        String durum = toplam>=60? "Geçti" : "Kaldı";
+        System.out.println(durum);
 
 
     }

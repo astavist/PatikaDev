@@ -22,9 +22,5 @@ public class Pratik_DaireAlanıCevresiHesaplayanProgram {
         daireAlan = (𝜋 * (r * r) * a) / 360;
         System.out.println("Daire Dilimi Alanı");
         System.out.println(daireAlan);
-
-
-
-
     }
 }

@@ -16,10 +16,5 @@ public class Pratik_TaksimetreHesaplayanProgram {
         son = min? ucret : 20;
         System.out.println("Taksi Ücreti:");
         System.out.println(son);
-
-
-
-
-
     }
 }

@@ -19,9 +19,5 @@ public class Odev_ManavKasaProgramı {
         kilo = input.nextDouble();
         toplam += armut * kilo;
         System.out.println("Toplam tutar:" + toplam + "TL");
-
-
-
-
     }
 }

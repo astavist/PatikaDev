@@ -7,23 +7,23 @@ public class Pratik_KullaniciGirisi {
         username = input.nextLine();
 
 
-        if(username.equals("astavist")) {
+        if(username.equals("benkullanici")) {
             System.out.println("Şifrenizi giriniz");
             password = input.nextLine();
-            if(password.equals("986574321")){
+            if(password.equals("123456789")){
                 System.out.println("Giriş başarılı");
             }
             else {
                 System.out.println("Şifreniz yanlış");
                 System.out.println("\nŞifrenizi giriniz:");
                 password = input.nextLine();
-                if(password.equals("986574321")){
+                if(password.equals("123456789")){
                     System.out.println("Giriş başarılı");
                 }
                 else {
                     System.out.println("Şifreniz yanlış");
                     System.out.println("\nŞifrenizi giriniz");
-                    if(password.equals("986574321")){
+                    if(password.equals("123456789")){
                         System.out.println("Giriş başarılı");
                     }
                     else {

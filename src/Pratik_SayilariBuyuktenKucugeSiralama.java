@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Pratik_SayilariKucuktenBuyugeSiralama {
+public class Pratik_SayilariBuyuktenKucugeSiralama {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int a,b,c;

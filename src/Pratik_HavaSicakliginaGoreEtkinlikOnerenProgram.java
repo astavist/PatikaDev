@@ -16,6 +16,7 @@ public class Pratik_HavaSicakliginaGoreEtkinlikOnerenProgram {
         }
         if (sicaklik >= 25) {
             System.out.println("Yüzmeye Gidebilirsiniz");
+
         }
     }
 }

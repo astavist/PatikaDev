@@ -10,8 +10,7 @@ public class Pratik_ciftSayilarinToplami {
             sayi = input.nextInt();
             if (sayi % 2 == 0) {
                 if (sayi % 4 == 0) {
-                    toplam += sayi;
-                }
+                    toplam += sayi;}
                 System.out.println("Toplam: " + toplam);
             }
         }

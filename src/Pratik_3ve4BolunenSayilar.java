@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Pratik_ciftSayiToplam {
+public class Pratik_3ve4BolunenSayilar {
     public static void main(String[] args) {
         int sayi;
         System.out.println("Sayıyı giriniz:");

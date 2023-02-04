@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pratik_3ve4eBolunenSayilar {
+public class Pratik_ciftSayiToplami {
     public static void main(String[] args) {
         int sayi,toplam= 0;
         Scanner input = new Scanner(System.in);

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HackerRank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HackerRank_Ifelse" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HackerRank_Ifelse.java" vcs="Git" />
   </component>

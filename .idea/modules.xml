@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HackerRank/HackerRank.iml" filepath="$PROJECT_DIR$/../HackerRank/HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatikaDev.iml" filepath="$PROJECT_DIR$/PatikaDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pratik_NotOrtalamasiHesaplayanProgram/Pratik_NotOrtalamasiHesaplayanProgram.iml" filepath="$PROJECT_DIR$/Pratik_NotOrtalamasiHesaplayanProgram/Pratik_NotOrtalamasiHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../denemeler/denemeler.iml" filepath="$PROJECT_DIR$/../denemeler/denemeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gelecegiYazanlar/gelecegiYazanlar/gelecegiYazanlar.iml" filepath="$PROJECT_DIR$/../gelecegiYazanlar/gelecegiYazanlar/gelecegiYazanlar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../123412/untitled/untitled.iml" filepath="$PROJECT_DIR$/../123412/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

@@ -2,25 +2,31 @@ import java.util.Scanner;
 
 public class Odev_minMaxSayi {
     public static void main(String[] args) {
-        int sayi, a, max = 0, min = 0;
         Scanner input = new Scanner(System.in);
-        System.out.println("Kaç sayı gireceksiniz: ");
-        sayi = input.nextInt();
-        for (int i = 0; i < sayi; i++) {
-            System.out.println((i+1) + ". sayıyı giriniz:");
-            a = input.nextInt();
-            if (sayi == 1) {
-                min = a;
-                max = a;
+        int n,sayi = 0,min,max;
+
+        System.out.println("Kaç tane sayi gireceksiniz ? : ");
+        n = input.nextInt();
+
+        if (n>0) {
+            System.out.print("1.sayiyi girin : ");
+            sayi = input.nextInt();
+        }
+        max = sayi;
+        min = sayi;
+
+        for (int i = 2; i <= n; i++) {
+            System.out.print(i + ".sayiyi girin : ");
+            sayi = input.nextInt();
+
+            if (sayi<min) {
+                min = sayi;
             }
-            if (a>max) {
-                max = a;
-            }
-            if (a<min) {
-                min = a;
+            if (sayi>max) {
+                max = sayi;
             }
         }
-        System.out.println("En büyük sayı: " + max);
-        System.out.println("En küçük sayı: " + min);
+        System.out.println("En buyuk sayi : "+max );
+        System.out.println("En kucuk sayi : "+min );
     }
 }

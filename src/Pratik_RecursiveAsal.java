@@ -21,5 +21,4 @@ public class Pratik_RecursiveAsal {
             System.out.println(sayi + " sayısı asal değildir.");
         }
     }
-    }
 }
